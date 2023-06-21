@@ -1,20 +1,26 @@
-### Welcome to my GitHub, I'm Tristan 😃
+### Welcome to my GitHub, I'm Tristan 👨‍💻
 
+If you are on this page, it is probably to get to know me or my work a little better, so allow me to help you 💁
 
-<!--
-**TristanDevin/TristanDevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What am I currently doing ?
 
-Here are some ideas to get you started:
+I am an engineering student at INSA Lyon, in the "Télécommunications, Services et Usages" department, and will be done with my studies in 2024.
+I also am a member of the "24h de l'INSA", in which I ~~try~~ to help improve and maintain a web tools to help with the festival planning and organizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where can you contact me ?
+
+You can send me an email at [tristan.dve@gmail.com](mailto:tristan.dve@gmail.com) if you want more info or wish to work with me
+
+🚧 I am working an a portfolio website, where you will be able to learn 
+
+## What do I do in my free time ?
+
+ - I recently picked up 📷
+ - I do a lot of 🧗‍♂️
+ - See friends, plan plans, hike hikes and drive ~~drives~~ cars
+
+---
+### My codings stats, from WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2017%20mins-blue)
