@@ -4,11 +4,11 @@ If you are on this page, it is probably to get to know me or my work a little be
 
 ## What am I currently doing ?
 
-I am an engineering student at INSA Lyon, in the "Télécommunications, Services et Usages" department, and will be done with my studies in 2024.
-For now, I live in Lyon, France
+I am an engineering student at **INSA Lyon**, in the "Télécommunications, Services et Usages" department, and will be done with my studies in *2024*. \\
+For now, I live in Lyon, France. \\
 I like to participate in code projects, mostly web, and learn about new technologies, frameworks and tools as I go
-\
-I also am a member of the "24h de l'INSA", in which I ~~try to~~  help improve and maintain a web tools to help with the festival planning and organizations
+\\
+I also am a member of the *"24h de l'INSA"*, in which I ~~try to~~  help improve and maintain a web tools to help with the festival **planning** and **organizations**
 
 ## What am I interested in ?
    
@@ -20,10 +20,10 @@ I also am a member of the "24h de l'INSA", in which I ~~try to~~  help improve a
 
 ## Where can you contact me ?
 
-You can send me an *[email](mailto:tristan.dve@gmail.com)* if you want more info or wish to work with me \
-I am also on *[LinkedIn](https://www.linkedin.com/in/tristan-devin/)*
+You can send me an **[email](mailto:tristan.dve@gmail.com)** if you want more info or wish to work with me \\
+I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 
-🚧 I am working an a portfolio website, where you will be able to learn everything about me 🚧
+🚧 I am working an a **portfolio website**, where you will be able to learn everything about me 🚧
 
 ## What do I do in my free time ?
 
