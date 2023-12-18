@@ -42,7 +42,7 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 January 2023 - To: 15 December 2023
+From: 25 January 2023 - To: 16 December 2023
 
 Total Time: 279 hrs 15 mins
 
