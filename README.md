@@ -42,16 +42,16 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 January 2023 - To: 18 January 2024
+From: 25 January 2023 - To: 20 January 2024
 
-Total Time: 281 hrs 42 mins
+Total Time: 281 hrs 43 mins
 
 JavaScript             72 hrs 29 mins  >>>>>>-------------------   25.47 %
 Python                 56 hrs 59 mins  >>>>>--------------------   20.02 %
 TypeScript             46 hrs 49 mins  >>>>---------------------   16.45 %
 Vue.js                 20 hrs 10 mins  >>-----------------------   07.09 %
 CSS                    15 hrs 27 mins  >------------------------   05.43 %
-Kotlin                 11 hrs 35 mins  >------------------------   04.07 %
+Kotlin                 11 hrs 36 mins  >------------------------   04.08 %
 HTML                   11 hrs 22 mins  >------------------------   04.00 %
 Terraform              7 hrs           >------------------------   02.46 %
 Markdown               4 hrs 37 mins   -------------------------   01.62 %
