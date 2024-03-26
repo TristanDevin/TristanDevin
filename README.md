@@ -11,7 +11,7 @@ For now, I live in Lyon, France. \
 I like to participate in code projects, mostly web, and learn about new technologies, frameworks and tools as I go
 \
 \
-I also am a member of the *"24h de l'INSA"*, in which I ~~try to~~  help improve and maintain a web tools to help with the festival **planning** and **organizations**
+I also am a member of the *"24h de l'INSA"*, in which I ~~try to~~  help improve and maintain a web tool to help with the festival **planning** and **organization**
 
 ## What am I interested in ?
    
