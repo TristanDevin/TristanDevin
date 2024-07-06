@@ -40,7 +40,7 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 ### My codings stats, from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,5 +103,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2024 12:24:32 UTC
+ Last Updated on 06/07/2024 12:22:49 UTC
 <!--END_SECTION:waka-->
