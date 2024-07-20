@@ -40,7 +40,7 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 ### My codings stats, from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,14 +81,14 @@ Sunday                   56 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 33 mins       ███████████████████░░░░░░   77.58 % 
-PowerShell               44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Other                    2 hrs 38 mins       ████████████████████░░░░░   78.13 % 
+PowerShell               44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -104,5 +104,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2024 12:25:07 UTC
+ Last Updated on 20/07/2024 12:23:42 UTC
 <!--END_SECTION:waka-->
