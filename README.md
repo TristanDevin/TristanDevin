@@ -46,8 +46,6 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 
 > 📦 35.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -103,5 +101,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 12:28:49 UTC
+ Last Updated on 30/03/2025 12:29:26 UTC
 <!--END_SECTION:waka-->
