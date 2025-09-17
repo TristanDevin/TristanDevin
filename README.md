@@ -40,8 +40,6 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
 ### My codings stats, from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2032%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 35.5 kB Used in GitHub's Storage 
@@ -54,42 +52,6 @@ I am also on **[LinkedIn](https://www.linkedin.com/in/tristan-devin/)**
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                182 commits         █████████░░░░░░░░░░░░░░░░   35.62 % 
-🌆 Daytime                159 commits         ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   174 commits         █████████░░░░░░░░░░░░░░░░   34.05 % 
-Tuesday                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Thursday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -103,5 +65,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 12:34:14 UTC
+ Last Updated on 17/09/2025 12:34:31 UTC
 <!--END_SECTION:waka-->
